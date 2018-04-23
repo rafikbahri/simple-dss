@@ -1,0 +1,29 @@
+{
+  "name": "super-dss",
+  "version": "1.0.0",
+  "description": "Data Storage System",
+  "main": "sdss.js",
+  "scripts": {
+    "test-init":"./node_modules/.bin/jasmine init",
+    "test": "jasmine"
+  },
+  "keywords": [
+    "Data",
+    "Storage",
+    "Query",
+    "DSS",
+    "JavaScript",
+    "Node",
+    "CommanderJS"
+  ],
+  "author": "Rafik Bahri",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.14.1",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "jasmine": "^3.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+TODOs:
+* Data Types
+* Relations between Entities
+* The ORM module
+Actually, it needs some serious design to be conform with Code First and Database First approaches..
+..
