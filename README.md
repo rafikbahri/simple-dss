@@ -2,7 +2,13 @@
 
 This project was built through a Hackathon organized by [ThinkIT](https://github.com/Think-iT-Labs/coding-challenge/blob/master/README.md).
 It's a simple yet useful and practical tool for storing simple JSON data for mocking data and tests for example.
- 
+## Overview
+<p align="center" >
+ <img src="examples/7.png" width="550"/>
+ </p>
+
+### See examples folder for more.
+
 ## Installation
 1. Install [Node & npm ](https://nodejs.org/en/)
 2. `git clone https://github.com/Bahri08/simple-dss.git` 
